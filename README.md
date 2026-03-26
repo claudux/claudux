@@ -72,4 +72,4 @@ Scripts en Python para automatizar tareas operativas, transformar archivos Excel
 ## Contacto
 
 - Email: [claudio.duran.m@gmail.com](mailto:claudio.duran.m@gmail.com)
-- LinkedIn: [www.linkedin.com/in/claudio-duran-molina-41580677)
+- LinkedIn: www.linkedin.com/in/claudio-duran-molina-41580677
