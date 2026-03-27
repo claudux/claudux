@@ -21,29 +21,24 @@ Me especializo en:
 - **Bases de datos:** PostgreSQL, Oracle, MySQL
 - **Otras áreas:** ETL, modelamiento de datos, dashboards interactivos, digitalización institucional
 
-## Experiencia destacada
-
-- **Administrativo Soporte TI**  
-  Soporte integral a usuarios, optimización de procesos internos y desarrollo de aplicaciones para digitalización y automatización.
-
-- **Analista BI – Proyecto de Título**  
-  Desarrollo completo de ciclo de análisis y visualización de datos, incluyendo extracción, limpieza, transformación y despliegue de dashboards para toma de decisiones.
-
-- **Coordinador Convenio SENCE**  
-  Gestión de procesos, planificación, control de ejecución y carga de datos en plataforma oficial.
-
 ## Proyectos destacados
 
-### [Inventory Data Dashboard](https://github.com/TU-USUARIO/inventory-data-dashboard)
+### [Inventory Data Dashboard](https://github.com/claudux/inventory-data-dashboard)
 Proyecto de análisis y visualización de datos aplicado al inventario de activos fijos, con limpieza de datos, definición de KPIs y desarrollo de dashboard gerencial para apoyar la toma de decisiones.
 
-### [Power Platform Business Apps](https://github.com/TU-USUARIO/power-platform-business-apps)
+### [INDAP Data Analysis Dashboard](https://github.com/claudux/indap-data-analysis-dashboard)
+Proyecto aplicado de análisis, limpieza y visualización de datos para apoyar la gestión territorial de productores agrícolas en INDAP La Unión, con KPIs críticos de asignación, créditos, eficiencia de ejecución, grupos etarios, género y composición étnica.
+
+### [CIOFF Chile Survey Analytics](https://github.com/claudux/cioff-chile-survey-analytics)
+Proyecto de levantamiento, automatización de captura, limpieza y análisis de encuestas orientado a identificar deficiencias, mejorar procesos y optimizar esfuerzos organizativos mediante dashboards e insights accionables.
+
+### [Power Platform Business Apps](https://github.com/claudux/power-platform-business-apps)
 Aplicaciones en Power Platform para digitalizar procesos internos, centralizar información y mejorar la gestión operativa en procesos institucionales.
 
-### [Power Automate Internal Processes](https://github.com/TU-USUARIO/power-automate-internal-processes)
+### [Power Automate Internal Processes](https://github.com/claudux/power-automate-internal-processes)
 Automatización de flujos internos con aprobaciones, generación de PDF, envío de correos y seguimiento documental para distintos procesos.
 
-### [Python Business Automation Scripts](https://github.com/TU-USUARIO/python-business-automation-scripts)
+### [Python Business Automation Scripts](https://github.com/claudux/python-business-automation-scripts)
 Scripts en Python para automatizar tareas operativas, transformar archivos Excel y resolver necesidades prácticas en áreas administrativas y TI.
 
 ## Formación
@@ -72,4 +67,4 @@ Scripts en Python para automatizar tareas operativas, transformar archivos Excel
 ## Contacto
 
 - Email: [claudio.duran.m@gmail.com](mailto:claudio.duran.m@gmail.com)
-- LinkedIn: www.linkedin.com/in/claudio-duran-molina-41580677
+- LinkedIn: [linkedin.com/in/claudio-duran-molina-41580677](https://www.linkedin.com/in/claudio-duran-molina-41580677)
