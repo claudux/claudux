@@ -41,6 +41,9 @@ Automatización de flujos internos con aprobaciones, generación de PDF, envío 
 ### [Python Business Automation Scripts](https://github.com/claudux/python-business-automation-scripts)
 Scripts en Python para automatizar tareas operativas, transformar archivos Excel y resolver necesidades prácticas en áreas administrativas y TI.
 
+### [SAT Apícola Data Dashboard](https://github.com/claudux/sat-apicola-data-dashboard)
+Dashboard de diagnóstico y análisis de datos para productores apícolas de la Región de Los Ríos
+
 ## Formación
 
 - **TNS en Informática y Data Science** — CFT de la Región de Los Ríos
