@@ -16,6 +16,9 @@ TNS en Informática y Data Science, y Diplomado en Data Science por la Universid
 
 ## 🚀 Proyectos destacados
 
+### 📑 [Evaluaciones CFT: Gestión y Trazabilidad Institucional](https://github.com/claudux/gestion-evaluaciones-cft)
+Sistema multiperfil (Power Apps + Power Automate + SharePoint + Power BI) para digitalizar el ciclo de vida completo de instrumentos evaluativos académicos. Automatiza flujos de aprobación de 4 roles clave, optimiza la logística de impresión y consolida dashboards analíticos que permiten responder de manera auditable a los requerimientos de acreditación de la CNED.
+
 ### 📦 [Inventory Data Dashboard](https://github.com/claudux/inventory-data-dashboard)
 Proyecto de análisis y visualización de datos aplicado al inventario de activos fijos, con limpieza de datos, definición de KPIs y desarrollo de dashboard gerencial para apoyar la toma de decisiones.
 
