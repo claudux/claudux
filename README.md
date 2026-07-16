@@ -44,10 +44,11 @@ Dashboard de diagnóstico y análisis de datos para productores apícolas de la 
 
 - **TNS en Informática y Data Science** — CFT de la Región de Los Ríos
 - **Diplomado en Data Science** — Universidad de Chile
+- **Cursando Fundamentos FullStack Java** — Desafío Latam
 
 ## 📜 Certificaciones y capacitación
 
-- Google Data Analytics
+- Google Advance Data Analytics
 - Oracle Forms and Reports
 - Fundamentos de Ciencia de Datos
 - Fundamentos de Análisis de Datos
