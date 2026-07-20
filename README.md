@@ -1,5 +1,5 @@
 # 👋 Hola, soy Claudio Durán (@claudux)
-**Analista de Datos y BI | Especialista en Power Platform y Python**
+**Analista de Datos y BI | Especialista en Power Platform, Automatización de Procesos**
 
 ## 👨‍💻 Sobre mí
 TNS en Informática y Data Science, y Diplomado en Data Science por la Universidad de Chile. Me especializo en el desarrollo de soluciones *end-to-end* para la toma de decisiones estratégicas. Destaco por mi capacidad para transformar datos complejos en información procesable mediante automatización y visualización.
